@@ -1,0 +1,58 @@
+﻿Specyfikacja projektu zaliczeniowego z przedmiotu
+“Bezpieczeństwo Systemów Informatycznych”
+
+
+
+
+Temat:
+PRZEPROWADZIĆ TESTY PENETRACYJNE ZWIĄZANE Z BEZPIECZEŃSTWEM APLIKACJI WEBOWYCH, PRZEDSTAWIENIE DOSTĘPNYCH NARZĘDZI
+
+
+Skład grupy projektowej:
+-Sabina Wręczycka, nr albumu 42271
+-Marcel Wolski, nr albumu 42464
+
+
+Opis problemu/tematu:
+W dzisiejszych czasach, bezpieczeństwo aplikacji internetowych jest bardzo ważne, ponieważ coraz więcej danych przechowujemy online. Ale nawet najlepiej zaprojektowane aplikacje mogą zawierać lukę w zabezpieczeniach, co może być wykorzystane przez niepożądanych użytkowników- np. do nieuprawnionego dostępu do danych, lub naruszenia integralności systemu. Testy penetracyjne są kluczowym narzędziem w identyfikacji i usuwaniu potencjalnych luk w zabezpieczeniach aplikacji webowych. Zadaniem naszej grupy projektowej jest przeprowadzenie testów penetracyjnych na wybranej aplikacji webowej oraz zbadanie dostępnych narzędzi wspomagających tego typu testy.
+
+
+Sposób na realizację tematu, cele i zadania:
+Zaczniemy od znalezienia informacji na tematy:
+-czym są testy penetracyjne
+-po co się je wykonuje
+-jak się je wykonuje
+-jakie narzędzia mogą nam w tym pomóc
+-jak korzystać z tych narzędzi
+-ewentualne porównanie dostępnych narzędzi
+-wyciągnięcie wniosków
+Głównym celem jest wykonanie projektu w terminie oraz z sukcesem, tj. udany test penetracyjny wybranej strony- stronę internetową naszej uczelni.
+
+
+Użyte narzędzia i technologie:
+* https://kapitanhack.pl/2019/05/21/nieskategoryzowane/jak-przeprowadzic-proste-testy-penetracyjne-w-swojej-sieci/
+* https://www.keepersecurity.com/blog/pl/2023/12/15/how-to-run-a-penetration-test/
+* https://www.laravel-enlightn.com/
+* https://github.com/Roave/SecurityAdvisories
+* https://laravel.com/docs/10.x
+* https://jetstream.laravel.com/3.x/introduction.html
+* https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=pl&gl=US
+* https://laravel.com/docs/10.x/sail
+* https://devdojo.com/bobbyiliev/what-is-laravel-jetstream-and-how-to-get-started
+* https://www.youtube.com/watch?v=d8YgWApHMfA
+* https://www.youtube.com/watch?v=iDuK4Brng4I
+* https://www.phpcodingstuff.com/blog/laravel-8-auth-with-livewire-jetstream-tutorial.html
+* https://www.phpcodingstuff.com/blog/simple-google-login-laravel-8-socialite.html
+* https://laravel.com/docs/10.x/socialite
+* https://www.google.com/search?q=dvwa+sql+injection&oq=dvwa&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDM2MThqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+* https://www.latex-project.org/
+* https://www.wireshark.org/download.html
+* https://www.jetbrains.com/qodana/?source=google&medium=cpc&campaign=EMEA_en_PL_Qodana_Generic_Search&term=static%20code%20analysis%20tools&content=688633007654&gad_source=1&gclid=EAIaIQobChMI0PuF_6n-hAMVuDwGAB1leguVEAAYASAAEgK8BPD_BwE
+* https://www.kali.org/
+* https://soos.io/products/dast?utm_source=google&utm_medium=cpc&utm_campaign=dast_global_retargeting&gad_source=1&gclid=EAIaIQobChMIlZ_09qn-hAMVCUBBAh1EHQe6EAAYASAAEgKppfD_BwE
+* https://www.metasploit.com/
+* https://portswigger.net/burp
+
+
+Repo git:
+https://github.com/sabinawreczycka/projekt_zal_bsi.git
