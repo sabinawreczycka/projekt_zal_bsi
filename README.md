@@ -1,5 +1,5 @@
-##Specyfikacja projektu zaliczeniowego z przedmiotu
-##“Bezpieczeństwo Systemów Informatycznych”
+# Specyfikacja projektu zaliczeniowego z przedmiotu
+# “Bezpieczeństwo Systemów Informatycznych”
 
 Temat:
 PRZEPROWADZIĆ TESTY PENETRACYJNE ZWIĄZANE Z BEZPIECZEŃSTWEM APLIKACJI WEBOWYCH, PRZEDSTAWIENIE DOSTĘPNYCH NARZĘDZI
